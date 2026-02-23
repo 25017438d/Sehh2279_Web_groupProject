@@ -52,4 +52,3 @@ Planned improvements and feature ideas (prioritized):
    - Add a lightweight backend (Node/Express) and simple auth
    - Persist data in a small database (SQLite/Postgres)
 
-If you'd like, I can open issues for these items or scaffold a basic static-server and sample JSON data next.
